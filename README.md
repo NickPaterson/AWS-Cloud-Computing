@@ -11,3 +11,10 @@
 7.  [Installing HTTPS](#7-installing-https)
 8.  [Connecting to Your VM via SSH on Visual Studio Code (VSC)](#8-connecting-to-your-vm-via-ssh-on-visual-studio-code-vsc)
 
+### Intrduction
+
+Amazon Elastic Compute Cloud (EC2) is a powerful service that allows you to deploy virtual servers in the cloud, making it an ideal choice for hosting web servers. Whether you're running a small personal website or managing a large-scale application, EC2 provides the flexibility and scalability to meet your hosting needs.
+
+In this guide, we will walk you through the essential steps of setting up an EC2 instance to host a web server. By the end of this tutorial, you'll have a functional web server ready to serve your content to the world. We'll cover key concepts such as account setup, instance creation, security group configuration, and the installation of a web server software, like Apache.
+
+So, whether you're a seasoned developer or just beginning your journey in web hosting, this guide will equip you with the foundational knowledge to get your web server up and running on an EC2 instance in no time. 
