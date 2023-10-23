@@ -1,7 +1,7 @@
 # EC2-Tutorial-
-# Tutorial: Setting Up an EC2 Instance for Hosting a Web Server
+## Tutorial: Setting Up an EC2 Instance for Hosting a Web Server
 
-## Contents
+### Contents
 - [Introduction](#1-introduction)
 - [Account Setup](#2-account-setup)
 - [Create an EC2 Instance](#3-create-an-ec2-instance)
