@@ -2,8 +2,8 @@
 ## Tutorial: Setting Up an EC2 Instance for Hosting a Web Server
 
 ### Contents
-- [Introduction](#1-introduction)
-- [Account Setup](#2-account-setup)
+1. [Introduction](#1-introduction)
+1. [Account Setup](#2-account-setup)
 - [Create an EC2 Instance](#3-create-an-ec2-instance)
 - [Connect to Your Instance](#4-connect-to-your-instance)
 - [Set Up a Web Server using Apache](#5-set-up-a-web-server-using-apache)
