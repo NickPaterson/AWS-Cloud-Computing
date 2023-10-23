@@ -7,9 +7,9 @@
 3.  [Create an EC2 Instance](#3-create-an-ec2-instance)
 4.  [Connect to Your Instance](#4-connect-to-your-instance)
 5.  [Set Up a Web Server using Apache](#5-set-up-a-web-server-using-apache)
-6.  [Dynamic Domain Name Service (DDNS)](#6-dynamic-domain-name-service-ddns)
+6.  [Dynamic Domain Name Service](#6-dynamic-domain-name-service-ddns)
 7.  [Installing HTTPS](#7-installing-https)
-8.  [Connecting to Your VM via SSH on Visual Studio Code (VSC)](#8-connecting-to-your-vm-via-ssh-on-visual-studio-code-vsc)
+8.  [Connecting to Your VM via SSH on Visual Studio Code](#8-connecting-to-your-vm-via-ssh-on-visual-studio-code-vsc)
 
 
 
@@ -227,7 +227,7 @@ You can connect to your instance via AWS Console, for the initial set up, I woul
 
 
 
-### 6.	Dynamic Doman Name Service (DDNS)
+### 6.	Dynamic Doman Name Service
 The AWS instance we created has a dynamic IP that is changing regularly, we can use a service such as Duckdns.org to assign a constant web address that is easy to remember.
 
 Go to [https://duckdns.org](https://duckdns.org/).
@@ -323,7 +323,7 @@ echo url="https://www.duckdns.org/update?domains=YOUR_DOMAIN&token=YOUR_TOKEN&ip
 
 
 
-### 8.	Connecting to Your VM via SSH on Visual Studio Code (VSC)
+### 8.	Connecting to Your VM via SSH on Visual Studio Code
 
 + Install Remote SSH and SSH Editing Configuration from the VSC marketplace.
 
