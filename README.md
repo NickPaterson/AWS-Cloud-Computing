@@ -131,7 +131,7 @@ You can connect to your instance via AWS Console, for the initial set up, I woul
 
 
 
-### 5. Set up a Webserver using Apache
+### 5. Set up a Web Server using Apache
 
 + Update and uprade all packages
 
@@ -323,7 +323,7 @@ echo url="https://www.duckdns.org/update?domains=YOUR_DOMAIN&token=YOUR_TOKEN&ip
 
 
 
-### 8.	Connecting to your VM via SSH on Visual Studio Code (VSC)
+### 8.	Connecting to Your VM via SSH on Visual Studio Code (VSC)
 
 + Install Remote SSH and SSH Editing Configuration from the VSC marketplace.
 
