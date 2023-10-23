@@ -15,7 +15,7 @@
 
 
 
-### 1. introduction
+### 1. Introduction
 
 Amazon Elastic Compute Cloud (EC2) is a powerful service that allows you to deploy virtual servers in the cloud, making it an ideal choice for hosting web servers. Whether you're running a small personal website or managing a large-scale application, EC2 provides the flexibility and scalability to meet your hosting needs.
 
@@ -131,7 +131,7 @@ You can connect to your instance via AWS Console, for the initial set up, I woul
 
 
 
-### 5. Set up a Web Server using Apache
+### 5. Set Up a Web Server using Apache
 
 + Update and uprade all packages
 
@@ -227,7 +227,7 @@ You can connect to your instance via AWS Console, for the initial set up, I woul
 
 
 
-### 6.	Dynamic Doman Name Service
+### 6.	Dynamic Domain Name Service
 The AWS instance we created has a dynamic IP that is changing regularly, we can use a service such as Duckdns.org to assign a constant web address that is easy to remember.
 
 Go to [https://duckdns.org](https://duckdns.org/).
