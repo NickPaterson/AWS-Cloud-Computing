@@ -1,4 +1,3 @@
-# EC2-Tutorial-
 ## Tutorial: Setting Up an EC2 Instance for Hosting a Web Server
 
 ### Contents
