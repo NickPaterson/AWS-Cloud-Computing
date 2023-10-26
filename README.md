@@ -1,5 +1,12 @@
 ## Tutorial: Setting Up an EC2 Instance for Hosting a Web Server
 
+[EC2 Tutorial](EC2-Tutorial.md)
+
+## AWS Cloud Computing PowerPoint 
+
+[AWS Cloud Computing](AWS-Cloud-Computing-PowerPoint.md)
+
+
 ### Contents
 1.  [Introduction](#1introduction)
 2.  [Account Setup](#2-account-setup)
