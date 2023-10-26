@@ -8,4 +8,4 @@
 
 ## AWS Cloud Computing PowerPoint 
 
-[AWS Cloud Computing](AWS-Cloud-Services.github.io)
+[AWS Cloud Computing](https://AWS-Cloud-Services.github.io)
