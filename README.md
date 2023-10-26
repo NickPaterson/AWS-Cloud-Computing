@@ -8,7 +8,7 @@
 
 ## AWS Cloud Computing PowerPoint 
 
-[AWS Cloud Computing](AWS-Cloud-Computing-PowerPoint.md)
+[AWS Cloud Computing](/AWS-Cloud-Computing-PowerPoint.md)
 
 
 ### Contents
