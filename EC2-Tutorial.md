@@ -226,7 +226,7 @@ You can connect to your instance via AWS Console, for the initial set up, I woul
 
 
 
-### 6.	Dynamic Domain Name Service
+### 6. Dynamic Domain Name Service
 The AWS instance we created has a dynamic IP that is changing regularly, we can use a service such as Duckdns.org to assign a constant web address that is easy to remember.
 
 Go to [https://duckdns.org](https://duckdns.org/).
@@ -322,7 +322,7 @@ echo url="https://www.duckdns.org/update?domains=YOUR_DOMAIN&token=YOUR_TOKEN&ip
 
 
 
-### 8.	Connecting to Your VM via SSH on Visual Studio Code
+### 8. Connecting to Your VM via SSH on Visual Studio Code
 
 + Install Remote SSH and SSH Editing Configuration from the VSC marketplace.
 
