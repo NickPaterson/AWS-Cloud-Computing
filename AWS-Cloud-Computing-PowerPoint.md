@@ -167,7 +167,7 @@ EC2 enables users to run instances on the AWS cloud infrastructure, allowing use
   + Can be optimised for specific workloads and requirements (CPU, memory, storage and network performance)​
 
 + Operating System Flexibility ​
- + Supports Amazon Linux, Windows, Ubuntu and more ​
+  + Supports Amazon Linux, Windows, Ubuntu and more ​
 
 + Security Groups​
   + Virtual firewalls that control inbound and outbound traffic to EC2 instances​
@@ -274,11 +274,17 @@ In summary, AWS is a powerful and flexible cloud platform, but users need to car
 ### 13. References
 
 Amazon Web Services. (n.d.). Amazon EC2. Retrieved from Amazon Web Services: https://aws.amazon.com/ec2/
+
 Amazon Web Services. (n.d.). AWS Cloud Products. Retrieved from AWS: https://aws.amazon.com/products/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc&awsf.re%3AInvent=*all&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all
+
 Amazon Web Services. (n.d.). AWS Lambda. Retrieved from Amazon Web Services: https://aws.amazon.com/lambda/?nc2=h_ql_prod_fs_lbd
+
 Amazon Web Services. (n.d.). AWS Storage Gateway. Retrieved from Amazon Web Services: https://aws.amazon.com/storagegateway/
+
 Amazon Web Services. (n.d.). Types of Cloud Computing. Retrieved from AWS: https://aws.amazon.com/types-of-cloud-computing/?WICC-N=tile&tile=types_of_cloud
+
 Amazon Web Services. (n.d.). What is cloud computing? Retrieved from AWS: https://aws.amazon.com/what-is-cloud-computing/
+
 Michalowski, M. (2023, 07 24). Who’s Using Amazon Web Services? [2023]. Retrieved from Spacelift: https://spacelift.io/blog/who-is-using-aws
 
 
